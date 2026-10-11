@@ -1,47 +1,34 @@
 # Privacy Policy — ADB Connect for Android
 
-Applies to version 2.4.0  
+Applies to version 2.4.1  
 Updated: 11 October 2026  
 Publisher: Siavash Mohammadi  
 Contact: info@spadra.ir
 
 ## Information processed
 
-ADB Connect connects to Android devices selected and authorized
-by you. It processes device addresses, connection credentials,
-device properties, installed application information, commands,
-APK files, logs, and bug reports to provide its features.
+ADB Connect connects directly to Android devices that you select and authorize. Device addresses, names, authorization keys, properties, package information, APK files, commands, logs and reports are processed to provide the features you request.
 
-Connection information and authorization material are stored
-locally. Some local settings may be included in Android system
-backups.
+
+Connection settings and authorization material are stored locally. App listings and console buffers are temporarily held in memory. Bug reports stay in private app storage until removed or app data is cleared. Some settings may be included in Android system backups. Logs and bug reports may contain personal information from your devices.
+
 
 ## Logs and reports
 
-Device logs and bug reports may contain personal or sensitive
-information from the connected device. Review their contents
-before sharing them.
+ADB Connect does not automatically send your device logs or reports to the publisher. The app does not include publisher advertising or analytics. When enabled, update checks contact GitHub to request public release information. GitHub receives ordinary network request information, including your IP address and the app version in the request header. You can disable automatic checks in Settings. Manual checks contact GitHub only when requested. Opening a release download, website or contact link uses the selected external service and its privacy policy.
 
-ADB Connect does not automatically send device logs or reports
-to the publisher and does not include publisher advertising
-or analytics.
+
 
 ## Saving and sharing
 
-Exported files are saved to the location you choose through
-Android's file picker. This location may belong to a cloud
-storage provider, whose privacy policy also applies.
+Exports are saved to the destination you select through Android's file picker, which may include a cloud storage provider. If you send diagnostics to support, we receive the information you choose to share. Review diagnostics before sharing them.
 
-If you contact support or send diagnostic files, the publisher
-receives the information you choose to provide.
 
 ## Deleting information
 
-You can clear application storage or uninstall ADB Connect
-to remove its private local data.
+Clear View clears the displayed log buffer. Clear Device clears the target device logcat buffer, displayed logs and the last in-app bug report. Copies you previously exported remain in their chosen destination. Clear app storage or uninstall to remove other private app data; delete exported copies separately.
 
-Files you exported or shared are separate copies. Delete them
-from their selected storage locations or services as needed.
+A foreground notification and wake/network locks support active connections and report transfers. You can disconnect from the application or its connection notification. The optional Keep screen on setting operates while the app is visible.
 
 ## Contact
 
